@@ -1,9 +1,9 @@
 # mohammedabdulraheem2107
 My GitHub profile README showcasing my skills, projects, and learning journey.
 
-# Hi, I'm Mohammed Abdul Raheem 👋
+# Mohammed Abdul Raheem
+### Final Year Computer Science Engineering Student
 
-🎓 Final Year Computer Science Engineering Student
 
 ## Skills
 - Python
