@@ -25,4 +25,4 @@ My GitHub profile README showcasing my skills, projects, and learning journey.
 - Become a Software Developer
 
 ## Connect With Me
-- LinkedIn: (add later)
+- LinkedIn: www.linkedin.com/in/mohammedabdulraheem2107
